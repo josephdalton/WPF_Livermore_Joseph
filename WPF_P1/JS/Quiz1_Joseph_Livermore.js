@@ -1,6 +1,6 @@
-// A variable is a storage space in code for a information such as numbers,words,or sentences.
+// A variable is a storage space in code for a information such as numbers,words,or sentences. *** or structures***
 // You make a variable by typing var The Name Of The Variable( which can be anything you want to name it) = Then
-// whatever you want to set it equal to.
+// whatever you want to set it equal to. 
 
 var Variable = 0;
 
